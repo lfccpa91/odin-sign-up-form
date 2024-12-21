@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'quicksandlight';
+    src: url('fonts/quicksand-variablefont_wght-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    font-family: "quicksandlight", monospace;
+    background-image: url("images/beach-unsplash.jpg");
+    background-size: cover;
+}
